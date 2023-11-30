@@ -1,4 +1,4 @@
-# Automate Prettier Configuration Steps For Django Templates
+# Automate Prettier Configuration Steps For Django Projects
 
 Prettier is great for code formatting but it breaks Django templates when handling **template tags**.
 Thanks to [@sezze](https://github.com/sezze), [prettier-plugin-django-alpine](https://github.com/sezze/prettier-plugin-django-alpine) now offers a starting point to solve this problem with relative ease
