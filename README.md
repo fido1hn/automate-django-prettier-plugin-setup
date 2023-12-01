@@ -5,8 +5,7 @@ Thanks to [@sezze](https://github.com/sezze), [prettier-plugin-django-alpine](ht
 
 ## The Challenge
 
-If you use Prettier for code formatting, and find yourself setting up the prettier plugin for your many projects.
-You might want to automate the prettier configuration steps since it can be repetitive
+If you use Prettier for code formatting, and find yourself setting up the prettier plugin for many projects. You might want to automate the prettier configuration steps since it can be repetitive, this script will do that for you.
 
 ### Requirements:
 
