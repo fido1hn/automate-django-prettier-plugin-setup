@@ -48,6 +48,6 @@ python ~/path/to/configure_prettier.py
 
 ### Extra
 
-You can set a bash/cmd/ps alias for the above command on your OS and call just one command(the alias name) to get up and running
+You can set a bash/cmd/ps alias name for the above command on your OS and call just one command(the alias name) to get up and running
 
 Happy Coding 😊
